@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(216, 216, 216);
+}
+
+#simon{
+    width: 78vmin;
+    margin: 5vmin auto;
+
+    
+}
+#botoes{
+    justify-items: center;
+    padding-left: 4.5vmin;
+}
+.btn {
+    width: 32vmin;
+    height: 32vmin;
+    border: 1vmin solid;
+    border-radius: 6vmin;
+    margin: 1vmin ;
+}
+
+/*botoes desativados*/
+.vermelho {
+    background-color: #D43A28;
+    border-color: #a52e21;
+}
+.azul {
+    background-color: #1C6282;
+    border-color: #0f384b;
+}
+.amarelo {
+    background-color: #ED9707;
+    border-color: #a56c08;
+}
+.verde {
+    background-color: #2D955E;
+    border-color: #195b38;
+}
+
+/*botoes Ligados*/
+.vermelhoLigado {
+    background-color: #ff8170;
+    box-shadow: 0 0 20px #ff8170;
+}
+.azulLigado {
+    background-color: #299fd5;
+    box-shadow: 0 0 20px #3FA7D6;
+}
+.amareloLigado {
+    background-color: #f5d96c;
+    box-shadow: 0 0 20px #f5d96c;
+}
+.verdeLigado {
+    background-color: #27d578;
+    box-shadow: 0 0 20px #59CD90;
+}
+
+#display{
+    width: 100%;
+    margin: auto;
+    font-size: 3vmin;
+ 
+}
+
+#btnLigarDesligar{
+    width: 8vmin;
+    height: 8vmin;
+    font-size: 3.5vmin;
+    font-weight: bolder;
+    border-radius: 2rem;
+    float: left;
+    margin-left: 7vmin;
+}
+.btnLigarDesligarOn{
+    background-color: #ffff00;
+    border: .1rem solid #969607;
+    box-shadow: 0 0 20px #ffff00;
+}
+#pontos{
+    font-size: 7.5vmin;
+    float: left;
+    margin-left: 8vmin;
+}
+#recorde{
+    float: right;
+    font-size: 4vmin;
+    margin-right: 6vmin;
+}

@@ -1,0 +1,5 @@
+
+#f88576 - vermelho - #D43A28
+#3FA7D6 - azul - #1C6282
+#f1c67a - amarelo - #ED9707
+#59CD90 - verde - #2D955E
