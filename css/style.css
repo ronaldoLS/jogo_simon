@@ -78,6 +78,7 @@ body{
     border-radius: 2rem;
     float: left;
     margin-left: 7vmin;
+    border: .1rem solid #000000;
 }
 .btnLigarDesligarOn{
     background-color: #ffff00;
